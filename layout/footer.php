@@ -162,15 +162,6 @@
 </footer>
 
 
-<div class="cookies-card hide text-center">
-    <div class="cookies-card__icon bg--base">
-        <i class="las la-cookie-bite"></i>
-    </div>
-    <p class="cookies-card__content mt-4">We may use cookies or any other tracking technologies when you visit our website, including any other media form, mobile website, or mobile application related or connected to help customize the Site and improve your experience <a href="cookie-policy.html" target="_blank">learn more</a></p>
-    <div class="cookies-card__btn mt-4">
-        <a class="btn btn--base w-100 policy" href="javascript:void(0)">Allow</a>
-    </div>
-</div>
 </div>
 </div>
 
