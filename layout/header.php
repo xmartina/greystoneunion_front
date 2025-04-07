@@ -1,6 +1,7 @@
 <?php
-function class_active_url($page_name){
-    $active_url = $_SERVER['REQUEST_URI'];
+$active_url = $_SERVER['REQUEST_URI'];
+function class_active_url($active_url, $page_name){
+
     if (strpos($active_url, $page_name)){
         echo "active";
     }
