@@ -19,7 +19,7 @@ include_once 'layout/header.php';
                         Modern Banking for a Digital World
                     </h2>
                     <p class="wow fadeInUp mt-4 text-white" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                        Palm Trust International is your trusted financial partner, offering fast, secure, and
+                        Greystone Union is your trusted financial partner, offering fast, secure, and
                         hassle-free banking. Whether you&#039;re saving, spending, or investing, we provide the tools to
                         help you manage your money effortlessly.
                     </p>
@@ -90,7 +90,7 @@ include_once 'layout/header.php';
                 <div class="col-lg-6 ps-lg-5">
                     <div class="section-header">
                         <div class="section-top-title border-left text--base">About Us</div>
-                        <h2 class="section-title">Palm Trust International</h2>
+                        <h2 class="section-title">Greystone Union</h2>
                     </div>
                     <div class="row gy-4">
                         <div class="col-xxl-8 col-xl-10 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.3s">
@@ -189,7 +189,7 @@ include_once 'layout/header.php';
             <div class="row gy-4">
                 <div class="col-xl-3 text-xl-start text-center">
                     <div class="section-header">
-                        <div class="section-top-title border-left text--base">Palm Trust International</div>
+                        <div class="section-top-title border-left text--base">Greystone Union</div>
                         <h2 class="section-title text-white">We provide top-notch banking services designed for
                             security, affordability, and convenience.</h2>
                         <a href="register.html" class="btn mt-4 bg--base text-white">
@@ -851,7 +851,7 @@ include_once 'layout/header.php';
                         <div class="ratings">
                             <i class="la la-star"></i><i class="la la-star"></i><i class="la la-star"></i><i
                                 class="la la-star"></i><i class="la la-star"></i></div>
-                        <p class="text-white mt-2">Palm Trust International has completely transformed how I manage my
+                        <p class="text-white mt-2">Greystone Union has completely transformed how I manage my
                             finances. The app is user-friendly, and transactions are instant. Highly recommend!</p>
                         <div class="d-flex align-items-center mt-4">
                             <h4 class="name text-white">John Smith</h4>
@@ -900,13 +900,13 @@ include_once 'layout/header.php';
                             <h2 class="accordion-header" id="h-72">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#c-72" aria-expanded="false" aria-controls="c-72">
-                                    Is it possible to send money from Palm Trust International to another bank?
+                                    Is it possible to send money from Greystone Union to another bank?
                                 </button>
                             </h2>
                             <div id="c-72" class="accordion-collapse collapse" aria-labelledby="h-72"
                                  data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    <p>Yes, you can send money from Palm Trust International to another bank?</p>
+                                    <p>Yes, you can send money from Greystone Union to another bank?</p>
                                 </div>
                             </div>
                         </div>
@@ -933,7 +933,7 @@ include_once 'layout/header.php';
                             <h2 class="accordion-header" id="h-89">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#c-89" aria-expanded="false" aria-controls="c-89">
-                                    Does Palm Trust International share our information for advertisement?
+                                    Does Greystone Union share our information for advertisement?
                                 </button>
                             </h2>
                             <div id="c-89" class="accordion-collapse collapse" aria-labelledby="h-89"

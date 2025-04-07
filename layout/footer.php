@@ -77,7 +77,7 @@
             <div class="col-lg-4 col-sm-6 order-lg-1 order-1">
                 <div class="footer-widget">
                     <h3 class="footer-widget__title">About Us</h3>
-                    <p>At Palm Trust International, we believe banking should be simple, fast, and accessible. Whether you&#039;re making payments, saving for the future, or growing your business, we provide secure and innovative solutions to meet your financial needs.</p>
+                    <p>At Greystone Union, we believe banking should be simple, fast, and accessible. Whether you&#039;re making payments, saving for the future, or growing your business, we provide secure and innovative solutions to meet your financial needs.</p>
                     <ul class="social-media-links d-flex align-items-center mt-3">
                         <li>
                             <a href="https://bd.linkedin.com/" target="_blank">
@@ -154,7 +154,7 @@
                 </div>
 
                 <div class="col-lg-9 col-sm-6 order-lg-3 text-sm-end order-2 text-center">
-                    <p>© 2025  Palm Trust International. All Rights Reserved.</p>
+                    <p>© 2025  Greystone Union. All Rights Reserved.</p>
                 </div>
             </div>
         </div>

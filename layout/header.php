@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Palm Trust International - Home</title>
-    <meta name="title" Content="Palm Trust International - Home">
-    <meta name="description" content="Palm Trust International is your trusted financial partner, offering fast, secure, and hassle-free banking. Whether you&#039;re saving, spending, or investing, we provide the tools to help you manage your money effortlessly.">
+    <title> Greystone Union - Home</title>
+    <meta name="title" Content="Greystone Union - Home">
+    <meta name="description" content="Greystone Union is your trusted financial partner, offering fast, secure, and hassle-free banking. Whether you&#039;re saving, spending, or investing, we provide the tools to help you manage your money effortlessly.">
     <meta name="keywords" content="bank,e-banking,digital banking,digital bank,laon,deposit,fdr,dps">
     <link rel="shortcut icon" href="assets/images/logoIcon/favicon.png" type="image/x-icon">
 
@@ -14,15 +14,15 @@
     <link rel="apple-touch-icon" href="assets/images/logoIcon/logo.png">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="Palm Trust International - Home">
+    <meta name="apple-mobile-web-app-title" content="Greystone Union - Home">
 
-    <meta itemprop="name" content="Palm Trust International - Home">
+    <meta itemprop="name" content="Greystone Union - Home">
     <meta itemprop="description" content="">
     <meta itemprop="image" content="assets/images/seo/67ebb13a0e33b1743499578.jpg">
 
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Palm Trust International">
-    <meta property="og:description" content="Palm Trust International is your trusted financial partner, offering fast, secure, and hassle-free banking. Whether you&#039;re saving, spending, or investing, we provide the tools to help you manage your money effortlessly.">
+    <meta property="og:title" content="Greystone Union">
+    <meta property="og:description" content="Greystone Union is your trusted financial partner, offering fast, secure, and hassle-free banking. Whether you&#039;re saving, spending, or investing, we provide the tools to help you manage your money effortlessly.">
     <meta property="og:image" content="assets/images/seo/67ebb13a0e33b1743499578.jpg" />
     <meta property="og:image:type"
           content="image/jpg" />
