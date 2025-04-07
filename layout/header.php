@@ -1,12 +1,14 @@
 <?php
 $active_url = $_SERVER['REQUEST_URI'];
-function class_active_url($active_url, $page_name){
 
-    if (strpos($active_url, $page_name)){
-        echo "active";
+function class_active_url($active_url, $page_name) {
+    if (stripos($active_url, $page_name) !== false) {
+        return "active";
     }
+    return "";
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/WebPage">
 <head>
@@ -91,23 +93,11 @@ function class_active_url($active_url, $page_name){
                     <div class="collapse navbar-collapse mt-xl-0 mt-3" id="navbarSupportedContent">
 
                         <ul class="navbar-nav main-menu m-auto" id="linkItem">
-                            <li><a class="<?php class_active_url($page_name) ?>" href="/">Home</a></li>
-                            <li>
-                                <a class="<?php class_active_url($page_name) ?>" href="/about-us">
-                                    About Us
-                                </a>
-                            </li>
-                            <li>
-                                <a class="<?php class_active_url($page_name) ?>" href="/services">
-                                    Services
-                                </a>
-                            </li>
-                            <li>
-                                <a class="<?php class_active_url($page_name) ?>" href="/faq">
-                                    FAQ
-                                </a>
-                            </li>
-                            <li><a class="<?php class_active_url($page_name) ?>" href="/contact">Contact</a></li>
+                            <li><a class="<?php echo class_active_url($active_url, '/'); ?>" href="/">Home</a></li>
+                            <li><a class="<?php echo class_active_url($active_url, 'about-us'); ?>" href="/about-us">About Us</a></li>
+                            <li><a class="<?php echo class_active_url($active_url, 'services'); ?>" href="/services">Services</a></li>
+                            <li><a class="<?php echo class_active_url($active_url, 'faq'); ?>" href="/faq">FAQ</a></li>
+                            <li><a class="<?php echo class_active_url($active_url, 'contact'); ?>" href="/contact">Contact</a></li>
                         </ul>
 
                         <div class="nav-right">
