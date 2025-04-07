@@ -25,7 +25,7 @@ include_once 'layout/header.php';
                         help you manage your money effortlessly.
                     </p>
                     <a class="btn btn--base wow fadeInUp mt-4 text-white" data-wow-duration="0.5s" data-wow-delay="0.3s"
-                       href="user/register.html">
+                       href="/user//register.html">
                         Create an Account
                     </a>
                 </div>
@@ -193,7 +193,7 @@ include_once 'layout/header.php';
                         <div class="section-top-title border-left text--base">Greystone Union</div>
                         <h2 class="section-title text-white">We provide top-notch banking services designed for
                             security, affordability, and convenience.</h2>
-                        <a href="register.html" class="btn mt-4 bg--base text-white">
+                        <a href="/register.html" class="btn mt-4 bg--base text-white">
                             Get Started
                         </a>
                     </div>
@@ -411,7 +411,7 @@ include_once 'layout/header.php';
 
 
             <div class="text-center mt-4">
-                <a href="user/login.html" class="btn btn--base">View All</a>
+                <a href="/user/login.html" class="btn btn--base">View All</a>
             </div>
         </div>
     </section>
@@ -575,7 +575,7 @@ include_once 'layout/header.php';
 
 
             <div class="text-center mt-4">
-                <a href="user/login.html" class="btn btn--base">View All</a>
+                <a href="/user/login.html" class="btn btn--base">View All</a>
             </div>
         </div>
     </section>
@@ -738,7 +738,7 @@ include_once 'layout/header.php';
 
 
             <div class="text-center mt-4">
-                <a href="user/login.html" class="btn btn--base">View All</a>
+                <a href="/user/login.html" class="btn btn--base">View All</a>
             </div>
         </div>
     </section>

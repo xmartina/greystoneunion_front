@@ -102,7 +102,7 @@
                 <div class="footer-widget">
                     <h3 class="footer-widget__title">Quick Links</h3>
                     <ul class="short-link-list">
-                        <li><a href="user/register.html">Register</a></li>
+                        <li><a href="/user//register.html">Register</a></li>
                         <li><a href="branches.html">Our Branches</a></li>
                         <li><a href="/contact">Contact</a></li>
                     </ul>

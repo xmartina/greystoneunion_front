@@ -1,4 +1,11 @@
-<!-- meta tags and other links -->
+<?php
+function class_active_url($page_name){
+    $active_url = $_SERVER['REQUEST_URI'];
+    if (strpos($active_url, $page_name)){
+        echo "active";
+    }
+}
+?>
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="http://schema.org/WebPage">
 <head>
@@ -83,23 +90,23 @@
                     <div class="collapse navbar-collapse mt-xl-0 mt-3" id="navbarSupportedContent">
 
                         <ul class="navbar-nav main-menu m-auto" id="linkItem">
-                            <li><a class="active" href="/">Home</a></li>
+                            <li><a class="<?php class_active_url($page_name) ?>" href="/">Home</a></li>
                             <li>
-                                <a class="" href="/about-us">
+                                <a class="<?php class_active_url($page_name) ?>" href="/about-us">
                                     About Us
                                 </a>
                             </li>
                             <li>
-                                <a class="" href="/services">
+                                <a class="<?php class_active_url($page_name) ?>" href="/services">
                                     Services
                                 </a>
                             </li>
                             <li>
-                                <a class="" href="/faq">
+                                <a class="<?php class_active_url($page_name) ?>" href="/faq">
                                     FAQ
                                 </a>
                             </li>
-                            <li><a class="" href="/contact">Contact</a></li>
+                            <li><a class="<?php class_active_url($page_name) ?>" href="/contact">Contact</a></li>
                         </ul>
 
                         <div class="nav-right">
@@ -108,8 +115,8 @@
                             </select>
 
 
-                            <a class="btn btn-sm header-base-button me-3 py-2" href="user/login.html">Sign In</a>
-                            <a class="btn btn-sm btn--base py-2 text-white" href="user/register.html">Sign Up</a>
+                            <a class="btn btn-sm header-base-button me-3 py-2" href="/user/login.html">Sign In</a>
+                            <a class="btn btn-sm btn--base py-2 text-white" href="/user//register.html">Sign Up</a>
                         </div>
                     </div>
                 </nav>
