@@ -134,7 +134,7 @@ include_once 'layout/header.php';
     </section>
 
 
-    <section id="services" class="service-section position-relative z-index-2 pt-100 pb-100">
+    <section id="/services" class="service-section position-relative z-index-2 pt-100 pb-100">
         <div class="top-wave">
             <img src="/assets/templates/indigo_fusion/images/elements/white-wave-2.png" alt="wave image">
         </div>
@@ -867,7 +867,7 @@ include_once 'layout/header.php';
     </section>
 
 
-    <section id="faq" class="pt-100 pb-100 section--bg">
+    <section id="/faq" class="pt-100 pb-100 section--bg">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xxl-5 col-lg-7 wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.3s">
@@ -878,7 +878,7 @@ include_once 'layout/header.php';
                     </div>
                 </div>
             </div>
-            <div class="accordion custom--accordion" id="faqAccordion">
+            <div class="accordion custom--accordion" id="/faqAccordion">
                 <div class="row gy-4 justify-content-center">
                     <div class="col-lg-6 wow fadeInRight " data-wow-duration="0.5s" data-wow-delay="0.3s">
                         <div class="accordion-item">

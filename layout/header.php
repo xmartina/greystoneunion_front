@@ -85,21 +85,21 @@
                         <ul class="navbar-nav main-menu m-auto" id="linkItem">
                             <li><a class="active" href="/">Home</a></li>
                             <li>
-                                <a class="" href="about-us">
+                                <a class="" href="/about-us">
                                     About Us
                                 </a>
                             </li>
                             <li>
-                                <a class="" href="services">
+                                <a class="" href="/services">
                                     Services
                                 </a>
                             </li>
                             <li>
-                                <a class="" href="faq">
+                                <a class="" href="/faq">
                                     FAQ
                                 </a>
                             </li>
-                            <li><a class="" href="contact">Contact</a></li>
+                            <li><a class="" href="/contact">Contact</a></li>
                         </ul>
 
                         <div class="nav-right">

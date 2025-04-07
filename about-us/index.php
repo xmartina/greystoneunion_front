@@ -63,7 +63,7 @@ include_once '../layout/breadcrumb.php';
 </section>
 
 
-<section id="services" class="service-section position-relative z-index-2 pt-100 pb-100">
+<section id="/services" class="service-section position-relative z-index-2 pt-100 pb-100">
     <div class="top-wave">
         <img src="/assets/templates/indigo_fusion/images/elements/white-wave-2.png" alt="wave image">
     </div>
