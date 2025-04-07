@@ -6,7 +6,7 @@ include_once 'layout/header.php';
 
 <div class="main-wrapper">
     <section class="hero bg_img"
-             style="background-image: url('assets/images/frontend/banner/60c756944f1271623676564.jpg');">
+             style="background-image: url('/assets/images/frontend/banner/60c756944f1271623676564.jpg');">
         <div class="hero__wave-shape">
             <img src="/assets/templates/indigo_fusion/images/elements/white-wave-1.png" alt="wave image">
         </div>
@@ -182,7 +182,7 @@ include_once 'layout/header.php';
         </div>
     </section>
     <section class="pt-100 pb-100 bg_img dark--overlay-two"
-             style="background-image: url('assets/images/frontend/why_choose/60d497b25b98a1624545202.jpg');">
+             style="background-image: url('/assets/images/frontend/why_choose/60d497b25b98a1624545202.jpg');">
         <div class="bottom-wave d-lg-block d-none">
             <img src="/assets/templates/indigo_fusion/images/elements/white-wave-1.png" alt="wave image">
         </div>
