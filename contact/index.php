@@ -72,30 +72,30 @@ include_once '../layout/breadcrumb.php';
         <h3 class="fw-bold mb-4">Quick Information</h3>
         <div class="row gy-4 justify-content-center">
             <div class="col-lg-4 col-md-6">
-                <div class="/contact-info-card section--bg2">
-                    <div class="/contact-info-card__icon">
+                <div class="contact-info-card section--bg2">
+                    <div class="contact-info-card__icon">
                         <i class="fas fa-map-marked"></i></div>
-                    <div class="/contact-info-card__content">
+                    <div class="contact-info-card__content">
                         <h4 class="title">Office Address</h4>
                         <a href="javascript:void(0)">521 Industrial Drive, Pennington Gap, VA 24277</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="/contact-info-card section--bg2">
-                    <div class="/contact-info-card__icon">
+                <div class="contact-info-card section--bg2">
+                    <div class="contact-info-card__icon">
                         <i class="fas fa-envelope"></i></div>
-                    <div class="/contact-info-card__content">
+                    <div class="contact-info-card__content">
                         <h4 class="title">Email Address</h4>
                         <a href="javascript:void(0)">support@greystoneunion.com</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
-                <div class="/contact-info-card section--bg2">
-                    <div class="/contact-info-card__icon">
+                <div class="contact-info-card section--bg2">
+                    <div class="contact-info-card__icon">
                         <i class="fas fa-phone"></i></div>
-                    <div class="/contact-info-card__content">
+                    <div class="contact-info-card__content">
                         <h4 class="title">Mobile Number</h4>
                         <a href="javascript:void(0)">+ 1 (276) 546 7598</a>
                     </div>
