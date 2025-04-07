@@ -17,7 +17,7 @@ include_once '../layout/breadcrumb.php';
                 </div>
             </div>
             <div class="col-xl-6 col-lg-7 order-lg-2 order-1">
-                <div class="/contact-form-wrapper">
+                <div class="contact-form-wrapper">
                     <h2 class="title">Feel free to contact us</h2>
                     <form action="#" method="post">
                         <input type="hidden" name="_token" value="UG60kz8dVFxWuK739qKuMEoVtUioo3JVTbcyDlwT">
@@ -102,7 +102,6 @@ include_once '../layout/breadcrumb.php';
                 </div>
             </div>
         </div>
-    </div>
     </div>
 </section>
 
