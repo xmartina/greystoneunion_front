@@ -93,7 +93,7 @@ function class_active_url($active_url, $page_name) {
                     <div class="collapse navbar-collapse mt-xl-0 mt-3" id="navbarSupportedContent">
 
                         <ul class="navbar-nav main-menu m-auto" id="linkItem">
-                            <li><a class="<?php echo class_active_url($active_url, '/'); ?>" href="/">Home</a></li>
+                            <li><a class="<?php echo class_active_url($active_url, ''); ?>" href="/">Home</a></li>
                             <li><a class="<?php echo class_active_url($active_url, 'about-us'); ?>" href="/about-us">About Us</a></li>
                             <li><a class="<?php echo class_active_url($active_url, 'services'); ?>" href="/services">Services</a></li>
                             <li><a class="<?php echo class_active_url($active_url, 'faq'); ?>" href="/faq">FAQ</a></li>
