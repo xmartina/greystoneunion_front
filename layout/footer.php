@@ -138,7 +138,7 @@
                             <i class="fas fa-map-marked"></i>                                <p>521 Industrial Drive, Pennington Gap, VA 24277</p>
                         </li>
                         <li>
-                            <i class="fas fa-envelope"></i>                                <p>support@palmtrustinternational.com</p>
+                            <i class="fas fa-envelope"></i>                                <p>support@greystoneunion.com</p>
                         </li>
                         <li>
                             <i class="fas fa-phone"></i>                                <p>+ 1 (276) 546 7598</p>
@@ -313,7 +313,7 @@
             e.preventDefault();
             var data = form.serialize();
             $.ajax({
-                url: `https://palmtrustinternational.com/subscribe`,
+                url: `https://greystoneunion.com/subscribe`,
                 method: 'post',
                 data: data,
                 success: function(response) {
@@ -337,7 +337,7 @@
             let form = modal.find('form')[0];
             modal.find('.min-limit').text(`Minimum Amount ${data.minimum}`);
             modal.find('.max-limit').text(`Maximum Amount ${data.maximum}`);
-            form.action = `https://palmtrustinternational.com/user/fdr/apply/${data.id}`;
+            form.action = `https://greystoneunion.com/user/fdr/apply/${data.id}`;
             modal.modal('show');
         });
     })(jQuery);
@@ -349,7 +349,7 @@
             let modal = $('#dpsModal');
             let data = e.currentTarget.dataset;
             let form = modal.find('form')[0];
-            form.action = `https://palmtrustinternational.com/user/dps/apply/${data.id}`;
+            form.action = `https://greystoneunion.com/user/dps/apply/${data.id}`;
             modal.modal('show');
         });
     })(jQuery);
@@ -363,7 +363,7 @@
             modal.find('.min-limit').text(`Minimum Amount ${data.minimum}`);
             modal.find('.max-limit').text(`Maximum Amount ${data.maximum}`);
             let form = modal.find('form')[0];
-            form.action = `https://palmtrustinternational.com/user/loan/apply/${data.id}`;
+            form.action = `https://greystoneunion.com/user/loan/apply/${data.id}`;
             modal.modal('show');
         });
     })(jQuery);
@@ -375,7 +375,7 @@
     (function($) {
 
         $(".langSel").on("change", function() {
-            window.location.href = "https://palmtrustinternational.com/change/" + $(this).val();
+            window.location.href = "https://greystoneunion.com/change/" + $(this).val();
         });
 
         setTimeout(function() {
@@ -383,7 +383,7 @@
         }, 2000);
 
         $('.policy').on('click', function() {
-            $.get(`https://palmtrustinternational.com/cookie/accept`, function(response) {
+            $.get(`https://greystoneunion.com/cookie/accept`, function(response) {
                 $('.cookies-card').addClass('d-none');
             });
         });
@@ -487,7 +487,7 @@
                         })
                         .then(function(token) {
                             $.ajax({
-                                url: 'https://palmtrustinternational.com/device/token',
+                                url: 'https://greystoneunion.com/device/token',
                                 type: 'POST',
                                 data: {
                                     token: token,

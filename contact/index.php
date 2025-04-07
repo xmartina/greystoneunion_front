@@ -87,7 +87,7 @@ include_once '../layout/breadcrumb.php';
                         <i class="fas fa-envelope"></i></div>
                     <div class="contact-info-card__content">
                         <h4 class="title">Email Address</h4>
-                        <a href="javascript:void(0)">support@palmtrustinternational.com</a>
+                        <a href="javascript:void(0)">support@greystoneunion.com</a>
                     </div>
                 </div>
             </div>
