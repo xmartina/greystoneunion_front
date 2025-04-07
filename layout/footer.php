@@ -12,37 +12,37 @@
                 <div class="brand-slider">
                     <div class="single-slide">
                         <div class="brand-item">
-                            <img src="assets/images/frontend/partner_section/61000a7d441c71627392637.png" alt="image">
+                            <img src="/assets/images/frontend/partner_section/61000a7d441c71627392637.png" alt="image">
                         </div>
                     </div>
                     <div class="single-slide">
                         <div class="brand-item">
-                            <img src="assets/images/frontend/partner_section/610009d71ce7c1627392471.png" alt="image">
+                            <img src="/assets/images/frontend/partner_section/610009d71ce7c1627392471.png" alt="image">
                         </div>
                     </div>
                     <div class="single-slide">
                         <div class="brand-item">
-                            <img src="assets/images/frontend/partner_section/61000905dec851627392261.png" alt="image">
+                            <img src="/assets/images/frontend/partner_section/61000905dec851627392261.png" alt="image">
                         </div>
                     </div>
                     <div class="single-slide">
                         <div class="brand-item">
-                            <img src="assets/images/frontend/partner_section/610008c8078b71627392200.png" alt="image">
+                            <img src="/assets/images/frontend/partner_section/610008c8078b71627392200.png" alt="image">
                         </div>
                     </div>
                     <div class="single-slide">
                         <div class="brand-item">
-                            <img src="assets/images/frontend/partner_section/6100088e88e2d1627392142.png" alt="image">
+                            <img src="/assets/images/frontend/partner_section/6100088e88e2d1627392142.png" alt="image">
                         </div>
                     </div>
                     <div class="single-slide">
                         <div class="brand-item">
-                            <img src="assets/images/frontend/partner_section/6100084858a641627392072.png" alt="image">
+                            <img src="/assets/images/frontend/partner_section/6100084858a641627392072.png" alt="image">
                         </div>
                     </div>
                     <div class="single-slide">
                         <div class="brand-item">
-                            <img src="assets/images/frontend/partner_section/610007f09805f1627391984.png" alt="image">
+                            <img src="/assets/images/frontend/partner_section/610007f09805f1627391984.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
         <div class="footer__bottom">
             <div class="row gy-4 align-items-center">
                 <div class="col-lg-3 col-sm-6 order-lg-1 text-sm-start order-1 text-center">
-                    <a class="footer-logo" href="/"><img src="assets/images/added/logo.png" alt="Logo"></a>
+                    <a class="footer-logo" href="/"><img src="/assets/images/added/logo.png" alt="Logo"></a>
                 </div>
 
                 <div class="col-lg-9 col-sm-6 order-lg-3 text-sm-end order-2 text-center">
@@ -223,15 +223,15 @@
         </div>
     </div>
 </div>
-<script src="assets/global/js/jquery-3.6.0.min.js"></script>
-<script src="assets/global/js/bootstrap.bundle.min.js"></script>
-<script src="assets/global/js/jquery.validate.js"></script>
-<script src="assets/global/js/slick.min.js"></script>
-<script src="assets/templates/indigo_fusion/js/wow.min.js"></script>
-<script src="assets/templates/indigo_fusion/js/main.js"></script>
+<script src="/assets/global/js/jquery-3.6.0.min.js"></script>
+<script src="/assets/global/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/global/js/jquery.validate.js"></script>
+<script src="/assets/global/js/slick.min.js"></script>
+<script src="/assets/templates/indigo_fusion/js/wow.min.js"></script>
+<script src="/assets/templates/indigo_fusion/js/main.js"></script>
 
-<script src="assets/global/js/lightcase.js"></script>
-<script src="assets/global/js/slick.min.js"></script>
+<script src="/assets/global/js/lightcase.js"></script>
+<script src="/assets/global/js/slick.min.js"></script>
 
 <script>
     (function($) {
@@ -433,8 +433,8 @@
 
     })(jQuery);
 </script>
-<link href="assets/global/css/iziToast.min.css" rel="stylesheet">
-<script src="assets/global/js/iziToast.min.js"></script>
+<link href="/assets/global/css/iziToast.min.css" rel="stylesheet">
+<script src="/assets/global/js/iziToast.min.js"></script>
 
 <script>
     "use strict";
@@ -455,7 +455,7 @@
         }
     }
 </script>
-<script src="assets/global/js/firebase/firebase-8.3.2.js"></script>
+<script src="/assets/global/js/firebase/firebase-8.3.2.js"></script>
 
 <script>
     "use strict";
@@ -484,7 +484,7 @@
         //Firebase
         firebase.initializeApp(firebaseConfig);
         const messaging = firebase.messaging();
-        navigator.serviceWorker.register("assets/global/js/firebase/firebase-messaging-sw.js")
+        navigator.serviceWorker.register("/assets/global/js/firebase/firebase-messaging-sw.js")
             .then((registration) => {
                 messaging.useServiceWorker(registration);
 

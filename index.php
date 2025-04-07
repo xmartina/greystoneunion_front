@@ -8,10 +8,10 @@ include_once 'layout/header.php';
     <section class="hero bg_img"
              style="background-image: url('assets/images/frontend/banner/60c756944f1271623676564.jpg');">
         <div class="hero__wave-shape">
-            <img src="assets/templates/indigo_fusion/images/elements/white-wave-1.png" alt="wave image">
+            <img src="/assets/templates/indigo_fusion/images/elements/white-wave-1.png" alt="wave image">
         </div>
         <div class="hero__wave-shape two">
-            <img src="assets/templates/indigo_fusion/images/elements/white-wave-1.png" alt="wave image">
+            <img src="/assets/templates/indigo_fusion/images/elements/white-wave-1.png" alt="wave image">
         </div>
         <div class="container">
             <div class="row justify-content-center">
@@ -80,7 +80,7 @@ include_once 'layout/header.php';
             <div class="row gy-5">
                 <div class="col-lg-6">
                     <div class="about-thumb rounded-3">
-                        <img src="assets/images/frontend/about/60c75675a19651623676533.jpg" alt="image">
+                        <img src="/assets/images/frontend/about/60c75675a19651623676533.jpg" alt="image">
                         <a href="https://www.youtube.com/watch?v=XepZmeyDFVk&amp;pp=ygUJZSBiYW5raW5n"
                            data-rel="lightcase:myCollection" class="video-icon wow fadeInRight" data-wow-duration="0.5s"
                            data-wow-delay="0.3s">
@@ -136,7 +136,7 @@ include_once 'layout/header.php';
 
     <section id="services" class="service-section position-relative z-index-2 pt-100 pb-100">
         <div class="top-wave">
-            <img src="assets/templates/indigo_fusion/images/elements/white-wave-2.png" alt="wave image">
+            <img src="/assets/templates/indigo_fusion/images/elements/white-wave-2.png" alt="wave image">
         </div>
         <div class="container">
             <div class="row justify-content-center">
@@ -184,7 +184,7 @@ include_once 'layout/header.php';
     <section class="pt-100 pb-100 bg_img dark--overlay-two"
              style="background-image: url('assets/images/frontend/why_choose/60d497b25b98a1624545202.jpg');">
         <div class="bottom-wave d-lg-block d-none">
-            <img src="assets/templates/indigo_fusion/images/elements/white-wave-1.png" alt="wave image">
+            <img src="/assets/templates/indigo_fusion/images/elements/white-wave-1.png" alt="wave image">
         </div>
         <div class="container">
             <div class="row gy-4">
@@ -291,7 +291,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp gy-3">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Premium FDR</h4>
                             <div class="plan-price">9%<sub>/ 30 Days</sub></div>
@@ -331,7 +331,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp gy-3">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Long-Term FDR</h4>
                             <div class="plan-price">8%<sub>/ 30 Days</sub></div>
@@ -371,7 +371,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp gy-3">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Standard FDR</h4>
                             <div class="plan-price">6%<sub>/ 30 Days</sub></div>
@@ -431,7 +431,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Starter Savings DPS</h4>
                             <div class="plan-price">
@@ -479,7 +479,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Secure Future DPS</h4>
                             <div class="plan-price">
@@ -527,7 +527,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Wealth Builder DPS</h4>
                             <div class="plan-price">
@@ -594,7 +594,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Mortgage Loan</h4>
                             <div class="plan-price">
@@ -642,7 +642,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Auto Loan</h4>
                             <div class="plan-price">
@@ -690,7 +690,7 @@ include_once 'layout/header.php';
                     <div class="plan-card rounded-3 wow fadeInUp">
                         <div class="plan-card__header">
                             <div class="wave-shape">
-                                <img src="assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
+                                <img src="/assets/templates/indigo_fusion/images/elements/wave.png" alt="img">
                             </div>
                             <h4 class="plan-name">Business Growth Loan</h4>
                             <div class="plan-price">

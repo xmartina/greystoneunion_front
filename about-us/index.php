@@ -9,7 +9,7 @@ include_once 'layout/breadcrumb.php';
         <div class="row gy-5">
             <div class="col-lg-6">
                 <div class="about-thumb rounded-3">
-                    <img src="assets/images/frontend/about/60c75675a19651623676533.jpg" alt="image">
+                    <img src="/assets/images/frontend/about/60c75675a19651623676533.jpg" alt="image">
                     <a href="https://www.youtube.com/watch?v=XepZmeyDFVk&amp;pp=ygUJZSBiYW5raW5n"
                        data-rel="lightcase:myCollection" class="video-icon wow fadeInRight" data-wow-duration="0.5s"
                        data-wow-delay="0.3s">
@@ -65,7 +65,7 @@ include_once 'layout/breadcrumb.php';
 
 <section id="services" class="service-section position-relative z-index-2 pt-100 pb-100">
     <div class="top-wave">
-        <img src="assets/templates/indigo_fusion/images/elements/white-wave-2.png" alt="wave image">
+        <img src="/assets/templates/indigo_fusion/images/elements/white-wave-2.png" alt="wave image">
     </div>
     <div class="container">
         <div class="row justify-content-center">
