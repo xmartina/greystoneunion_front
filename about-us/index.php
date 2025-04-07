@@ -1,7 +1,7 @@
 <?php
 $page_name = 'About Us';
-include_once 'layout/header.php';
-include_once 'layout/breadcrumb.php';
+include_once '../layout/header.php';
+include_once '../layout/breadcrumb.php';
 ?>
 
 <section id="about" class="pt-100 pb-100 section--bg">

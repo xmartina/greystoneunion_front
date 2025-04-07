@@ -1,7 +1,7 @@
 <?php
 $page_name = 'Contact';
-include_once 'layout/header.php';
-include_once 'layout/breadcrumb.php';
+include_once '../layout/header.php';
+include_once '../layout/breadcrumb.php';
 ?>
 
 
