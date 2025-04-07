@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Greystone Union - Home</title>
+    <title> Greystone Union - <?=$page_name?></title>
     <meta name="title" Content="Greystone Union - Home">
     <meta name="description" content="Greystone Union is your trusted financial partner, offering fast, secure, and hassle-free banking. Whether you&#039;re saving, spending, or investing, we provide the tools to help you manage your money effortlessly.">
     <meta name="keywords" content="bank,e-banking,digital banking,digital bank,laon,deposit,fdr,dps">

@@ -1,4 +1,5 @@
 <?php
+$page_name = 'Home';
 include_once 'layout/header.php';
 ?>
 
