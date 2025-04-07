@@ -106,5 +106,5 @@ include_once '../layout/breadcrumb.php';
 </section>
 
 <?php
-include_once 'layout/footer.php';
+include_once '../layout/footer.php';
 ?>
