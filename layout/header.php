@@ -28,7 +28,7 @@
           content="image/jpg" />
     <meta property="og:image:width" content="1180" />
     <meta property="og:image:height" content="600" />
-    <meta property="og:url" content="index.html">
+    <meta property="og:url" content="/">
 
     <meta name="twitter:card" content="summary_large_image">
 
@@ -74,7 +74,7 @@
         <div class="header__bottom">
             <div class="container">
                 <nav class="navbar navbar-expand-lg align-items-center justify-content-between p-0">
-                    <a class="site-logo site-title" href="index.html">
+                    <a class="site-logo site-title" href="/">
                         <img src="assets/images/logoIcon/logo.png" alt="logo">
                     </a>
                     <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" type="button" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -83,23 +83,23 @@
                     <div class="collapse navbar-collapse mt-xl-0 mt-3" id="navbarSupportedContent">
 
                         <ul class="navbar-nav main-menu m-auto" id="linkItem">
-                            <li><a class="active" href="index.html">Home</a></li>
+                            <li><a class="active" href="/">Home</a></li>
                             <li>
-                                <a class="" href="about-us.html">
+                                <a class="" href="about-us">
                                     About Us
                                 </a>
                             </li>
                             <li>
-                                <a class="" href="services.html">
+                                <a class="" href="services">
                                     Services
                                 </a>
                             </li>
                             <li>
-                                <a class="" href="faq.html">
+                                <a class="" href="faq">
                                     FAQ
                                 </a>
                             </li>
-                            <li><a class="" href="contact.html">Contact</a></li>
+                            <li><a class="" href="contact">Contact</a></li>
                         </ul>
 
                         <div class="nav-right">
