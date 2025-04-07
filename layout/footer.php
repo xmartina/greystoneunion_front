@@ -150,7 +150,7 @@
         <div class="footer__bottom">
             <div class="row gy-4 align-items-center">
                 <div class="col-lg-3 col-sm-6 order-lg-1 text-sm-start order-1 text-center">
-                    <a class="footer-logo" href="/"><img src="assets/images/logoIcon/logo.png" alt="Logo"></a>
+                    <a class="footer-logo" href="/"><img src="assets/images/added/logo.png" alt="Logo"></a>
                 </div>
 
                 <div class="col-lg-9 col-sm-6 order-lg-3 text-sm-end order-2 text-center">
