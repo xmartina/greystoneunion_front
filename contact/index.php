@@ -103,6 +103,7 @@ include_once '../layout/breadcrumb.php';
             </div>
         </div>
     </div>
+    </div>
 </section>
 
 <?php
